@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=gzdyj&color=blueviolet&style=for-the-badge" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gzdyj/gzdyj/output/github-contribution-grid-snake.svg)
 
 </div>
 

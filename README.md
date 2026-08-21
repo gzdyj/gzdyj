@@ -16,11 +16,11 @@
   <a href="https://blog.zinzin.cc">
     <img src="https://img.shields.io/badge/Blog-blog.zinzin.cc-181717?style=for-the-badge&logo=astro" />
   </a>
-  <a href="https://space.bilibili.com/38932988">
-    <img src="https://img.shields.io/badge/Bilibili-38932988-00A1D6?style=for-the-badge&logo=bilibili" />
+  <a href="https://space.bilibili.com/277050042?spm_id_from=333.1387.0.0">
+    <img src="https://img.shields.io/badge/Bilibili-277050042-00A1D6?style=for-the-badge&logo=bilibili" />
   </a>
-  <a href="https://bgm.tv/user/1143164">
-    <img src="https://img.shields.io/badge/Bangumi-1143164-FF6B00?style=for-the-badge&logo=bookmeter" />
+  <a href="https://bgm.tv/user/1041515">
+    <img src="https://img.shields.io/badge/Bangumi-1041515-FF6B00?style=for-the-badge&logo=bookmeter" />
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=gzdyj&color=blueviolet&style=for-the-badge" />

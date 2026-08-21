@@ -84,18 +84,6 @@
   </a>
 </p>
 
-### 📝 shuati (刷题系统)
-**Quiz Master** | ⭐ 0
-> 刷题系统，Spring Boot + Vue 3，支持 Docker Compose 部署
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs" />
-  <a href="https://github.com/gzdyj/shuati">
-    <img src="https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 ---
 
 ## ⚡ More Projects

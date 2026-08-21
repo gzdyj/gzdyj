@@ -56,6 +56,22 @@
 
 ## 📦 Featured Projects
 
+### 🪩 juejin-auto-checkin（最新）
+**稀土掘金自动签到 Chrome 扩展** | ⭐ 0
+> Chrome 插件（Manifest V3），启动浏览器自动完成掘金每日签到领矿石，含桌面通知 / 手动签到 / 超时重试 / Popup 卡片状态，原生 JS 零依赖，仅 ~26KB。
+
+<p>
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manifest%20V3-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://github.com/gzdyj/juejin-auto-checkin">
+    <img src="https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/gzdyj/juejin-auto-checkin/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/📥%20Download-v1.0.0-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ### 🔥 gzdyj-blog
 **个人博客** | ⭐ 0
 > 基于 Astro 7 + Firefly 主题的个人博客，支持中英双语，双 CDN 部署
